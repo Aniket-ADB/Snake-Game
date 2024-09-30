@@ -1,0 +1,1 @@
+This is a simple Snake Game built using Python's Turtle module. The objective is to control the snake using `W`, `A`, `S`, and `D` keys to eat food and grow in size while avoiding collisions with the screen borders or the snake's own body. The game keeps track of the current score and high score.
